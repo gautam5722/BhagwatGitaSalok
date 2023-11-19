@@ -17,7 +17,7 @@ export default class Footer extends Component {
             <i class="fab fa-linkedin fa-2x"></i>
           </a>
           &nbsp;&nbsp;&nbsp;
-          <a href="https://github.com/gautam5722" style={{ color: "grey"  }}>
+          <a href="https://github.com/gautam5722/BhagwatGitaSalok" style={{ color: "grey"  }}>
             <i class="fab fa-github fa-2x"></i>
           </a>
           &nbsp;&nbsp;&nbsp;
@@ -36,14 +36,14 @@ export default class Footer extends Component {
           <br />
           <a
             className="btn btn-outline-primary"
-            href="https://github.com/ashish-devv/bhagvadgitafrontend"
+            href="https://github.com/gautam5722/BhagwatGitaSalok"
           >
             <i class="fab fa-github "></i> Frontend Source Code{" "}
           </a>
           <br />
           <a
             className="btn btn-outline-primary"
-            href="https://github.com/ashish-devv/bhagvadgitabackend"
+            href="https://github.com/gautam5722/BhagwatGitaSalok"
           >
             <i class="fab fa-github "></i> Backend Source Code{" "}
           </a>
