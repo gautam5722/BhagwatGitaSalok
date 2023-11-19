@@ -30,7 +30,7 @@ export default class About extends Component {
                   </a>
                   &nbsp;
                   <a
-                    href="https://github.com/gautam5722"
+                    href="https://github.com/gautam5722/BhagwatGitaSalok"
                     className="btn btn-outline-primary"
                   >
                     facebook <i class="fab fa-facebook-f"></i>
@@ -48,24 +48,24 @@ export default class About extends Component {
             <div className="card border-dark mt-1">
               <img src={Badal} className="card-img-top" alt="..." />
               <div className="card-body">
-                <h3 className="card-title">Gautam</h3>
+                <h3 className="card-title">Ankush</h3>
                 <p className="card-text mt-3">
                   <a
-                    href="https://www.linkedin.com/in/badal-shukla-555992192"
+                    href="https://www.linkedin.com/in/ankush2093/"
                     className="btn btn-outline-primary"
                   >
                     LinkedIn <i class="fab fa-linkedin-in"></i>
                   </a>
                   &nbsp;
                   <a
-                    href="https://www.facebook.com/badal.shukla.94"
+                    href="https://www.linkedin.com/in/ankush2093/"
                     className="btn btn-outline-primary"
                   >
                     facebook <i class="fab fa-facebook-f"></i>
                   </a>
                   &nbsp;
                   <a
-                    href="https://github.com/badalshukla"
+                    href="https://github.com/ankush2093"
                     className="btn btn-outline-dark"
                   >
                     Github <i class="fab fa-github"></i>
