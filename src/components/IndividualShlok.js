@@ -70,7 +70,7 @@ export default class IndividualShlok extends Component {
     const verse = Math.floor(Math.random() * 47) + 1; // Generate a random verse number (1-47)
   
     fetch(
-      `https://bhagavadgitaapi.in/slok/${chapter}/${verse}/${this.state.shlokchapters}/${this.state.shlokverse}`
+      `https://bhagvadgitabackend.onrender.com/gita/${this.state.shlokchapters}/${this.state.shlokverse}`
       // `https://bhagavadgitaapi.in/chapters${this.state.shlokchapters}/${this.state.shlokverse}`
     )
       .then((response) => {
